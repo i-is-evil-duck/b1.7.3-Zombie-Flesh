@@ -1,0 +1,8 @@
+name: ZombieFlesh
+main: com.j3ly.zombieflesh.ZombieFleshPlugin
+version: 1.0
+
+commands:
+  spawnzombie:
+    description: Spawns a zombie at your location
+    usage: /spawnzombie
