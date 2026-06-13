@@ -1,6 +1,6 @@
 name: ZombieFlesh
 main: com.j3ly.zombieflesh.ZombieFleshPlugin
-version: 1.0
+version: 1.1
 
 commands:
   spawnzombie:

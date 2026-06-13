@@ -27,11 +27,11 @@ public class ZombieFleshPlugin extends JavaPlugin {
                 List<ItemStack> drops = event.getDrops();
                 drops.clear(); // Remove default drops
 
-                // 50/50 chance to drop feather or token (ID 305)
+                // 50/50 chance to drop feather or rotten flesh (ID 305)
                 if (random.nextBoolean()) {
                     drops.add(new ItemStack(288, 1)); // Feather
                 } else {
-                    drops.add(new ItemStack(305, 1)); // Zombie Token
+                    drops.add(new ItemStack(305, 1)); // Rotten Flesh
                 }
             }
         }

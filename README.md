@@ -3,9 +3,9 @@
 
 ### Minecraft Beta 1.7.3 Rotten Flesh plugin
 
-Brings rotten flesh / zombie tokens to beta 1.7.3.
+Brings rotten flesh to beta 1.7.3.
 
-Zombies drop either a feather (288) or a Zombie Token (item ID 305, 50% chance each). Right-click a Zombie Token to heal 3 hearts — the item is consumed on use. Requires a client-side texture pack for the token to appear as intended.
+Zombies drop either a feather (288) or Rotten Flesh (item ID 305, 50% chance each). Right-click Rotten Flesh to heal 3 hearts — the item is consumed on use. Requires a client-side texture pack for the item to appear as intended.
 
 ## Views
 
